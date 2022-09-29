@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CyperTech
 build_property.RootNamespace = CyperTech
-build_property.ProjectDir = /Users/tranlong/Documents/core/CyperTech/
+build_property.ProjectDir = /Users/longtran/Documents/core/CyperTech/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tranlong/Documents/core/CyperTech
+build_property.MSBuildProjectDirectory = /Users/longtran/Documents/core/CyperTech
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/Home/404.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/Home/404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS80MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/Home/Contact.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/Home/Index.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/News/Detail.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/News/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmV3cy9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/Shared/_Layout.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/_ViewImports.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tranlong/Documents/core/CyperTech/Views/_ViewStart.cshtml]
+[/Users/longtran/Documents/core/CyperTech/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

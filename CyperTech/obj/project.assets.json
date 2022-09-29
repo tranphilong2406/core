@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/tranlong/.nuget/packages/": {}
+    "/Users/longtran/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tranlong/Documents/core/CyperTech/CyperTech.csproj",
+      "projectUniqueName": "/Users/longtran/Documents/core/CyperTech/CyperTech.csproj",
       "projectName": "CyperTech",
-      "projectPath": "/Users/tranlong/Documents/core/CyperTech/CyperTech.csproj",
-      "packagesPath": "/Users/tranlong/.nuget/packages/",
-      "outputPath": "/Users/tranlong/Documents/core/CyperTech/obj/",
+      "projectPath": "/Users/longtran/Documents/core/CyperTech/CyperTech.csproj",
+      "packagesPath": "/Users/longtran/.nuget/packages/",
+      "outputPath": "/Users/longtran/Documents/core/CyperTech/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tranlong/.nuget/NuGet/NuGet.Config"
+        "/Users/longtran/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

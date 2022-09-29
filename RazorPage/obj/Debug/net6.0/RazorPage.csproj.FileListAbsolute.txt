@@ -1,0 +1,47 @@
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/appsettings.Development.json
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/appsettings.json
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.deps.json
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.runtimeconfig.json
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.dll
+/Users/tranlong/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.pdb
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.csproj.AssemblyReference.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.AssemblyInfoInputs.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.AssemblyInfo.cs
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.csproj.CoreCompileInputs.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.MvcApplicationPartsAssemblyInfo.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.RazorAssemblyInfo.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.RazorAssemblyInfo.cs
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/scopedcss/bundle/RazorPage.styles.css
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.dll
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/refint/RazorPage.dll
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.pdb
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.genruntimeconfig.cache
+/Users/tranlong/Documents/core/RazorPage/obj/Debug/net6.0/ref/RazorPage.dll
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/appsettings.Development.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/appsettings.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.staticwebassets.runtime.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.deps.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.runtimeconfig.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.dll
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/bin/Debug/net6.0/RazorPage.pdb
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.csproj.AssemblyReference.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.AssemblyInfoInputs.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.AssemblyInfo.cs
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.csproj.CoreCompileInputs.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.MvcApplicationPartsAssemblyInfo.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.RazorAssemblyInfo.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.RazorAssemblyInfo.cs
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/staticwebassets.build.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/staticwebassets.development.json
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/scopedcss/bundle/RazorPage.styles.css
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.dll
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/refint/RazorPage.dll
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.pdb
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/RazorPage.genruntimeconfig.cache
+/Users/tranlong/Library/Mobile Documents/com~apple~CloudDocs/Documents/core/RazorPage/obj/Debug/net6.0/ref/RazorPage.dll
